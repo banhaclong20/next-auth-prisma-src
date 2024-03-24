@@ -16,15 +16,9 @@
 - Protect Server Actions for admins only
 - Change email with new verification in Settings page
 
-<a href="">
-  <img alt="Next.js Auth with Prisma" src="./public/thumb/login-form.png">
-  <h1 align="center">Next Auth v5 with Prima | Email Verification | MFA | User Roles</h1>
-</a>
+<img alt="Next.js Auth with Prisma" src="./public/thumb/login-form.png">
 
-<a href="">
-  <img alt="Next.js Auth with Prisma" src="./public/thumb/MFA-form.png">
-  <h1 align="center">Next Auth v5 with Prima | Email Verification | MFA | User Roles</h1>
-</a>
+<img alt="Next.js Auth with Prisma" src="./public/thumb/MFA-form.png">
 
 ### Prerequisites
 
