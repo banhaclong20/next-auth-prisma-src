@@ -3,7 +3,7 @@
   <h1 align="center">Next Auth v5 with Prima | Email Verification | MFA | User Roles</h1>
 </a>
 
-Key Features:
+## Features
 
 - Next-auth v5 (Auth.js)
 - Next.js 14 with server actions
@@ -15,6 +15,16 @@ Key Features:
 - Protect API Routes for admins only
 - Protect Server Actions for admins only
 - Change email with new verification in Settings page
+
+<a href="">
+  <img alt="Next.js Auth with Prisma" src="./public/thumb/login-form.png">
+  <h1 align="center">Next Auth v5 with Prima | Email Verification | MFA | User Roles</h1>
+</a>
+
+<a href="">
+  <img alt="Next.js Auth with Prisma" src="./public/thumb/MFA-form.png">
+  <h1 align="center">Next Auth v5 with Prima | Email Verification | MFA | User Roles</h1>
+</a>
 
 ### Prerequisites
 
