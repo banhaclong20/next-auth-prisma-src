@@ -1,4 +1,7 @@
-# Next Auth v5 with Prima | Email Verification | MFA | User Roles
+<a href="">
+  <img alt="Next.js Auth with Prisma" src="./public/thumb/home.png">
+  <h1 align="center">Next Auth v5 with Prima | Email Verification | MFA | User Roles</h1>
+</a>
 
 Key Features:
 
